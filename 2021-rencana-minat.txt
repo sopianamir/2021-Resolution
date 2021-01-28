@@ -3,6 +3,9 @@ Rencana Minat
    * Bootstrap
    * React.js
    * Vue.js
+   * Vue.js
 2. UI Designer
    * Adobe XD
-   * Adobe Illustrator
+   * Adobe Illustrator  
+3. Beli Mac Pro
+4. Buat Tutorial YouTube

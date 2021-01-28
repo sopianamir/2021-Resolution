@@ -2,6 +2,8 @@ Rencana Minat
 1. Front End Deveoper
    * Bootstrap
    * React.js
+   * Vanilla JavaScript
 2. UI Designer
    * Adobe XD
 3. Beli Mac Pro
+4. Buat Tutorial YouTube

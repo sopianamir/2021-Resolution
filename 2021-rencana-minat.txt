@@ -3,7 +3,6 @@ Rencana Minat
    * Bootstrap
    * React.js
    * Vue.js
-   * Vue.js
 2. UI Designer
    * Adobe XD
    * Adobe Illustrator  

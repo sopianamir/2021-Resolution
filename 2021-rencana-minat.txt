@@ -1,3 +1,6 @@
 Rencana Minat
 1. Front End Deveoper
+   * Bootstrap
+   * React.js
 2. UI Designer
+   * Adobe XD

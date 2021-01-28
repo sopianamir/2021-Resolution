@@ -3,6 +3,7 @@ Rencana Minat
    * Bootstrap
    * React.js
    * Vanilla JavaScript
+   * Vue.js
 2. UI Designer
    * Adobe XD
 3. Beli Mac Pro

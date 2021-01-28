@@ -2,6 +2,7 @@ Rencana Minat
 1. Front End Deveoper
    * Bootstrap
    * React.js
+   * Vue.js
 2. UI Designer
    * Adobe XD
-3. Beli Mac Pro
+   * Adobe Illustrator
